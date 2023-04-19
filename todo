@@ -1,0 +1,27 @@
+# BACKEND #
+> Deploy a digital ocean cloud vm
+> Create a Dockerfile
+> build backend logic
+> Encapsulate logic
+> Containerize logic
+
+# FRONTEND #
+> Frontend roadmap
+> Frontend
+
+# Structure #
+> Individual node logic
+> Web portal
+
+# Demonstration #
+> A webpage that uploads the file to the chain and returns the hash identifier
+
+# To-Learn
+> Docker
+> express.js
+> express-fileupload1
+> node.js
+> blockchain
+> web3.js
+> react.js
+> JavaScript
